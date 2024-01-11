@@ -1,0 +1,26 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "500 Syllabus for Spring 2024"
+  author: "Thomas E. Love"
+  date: last-modified
+  date-format: iso
+  downloads: pdf
+  chapters:
+    - index.qmd
+    - 01_description.qmd
+    - 02_drlove.qmd
+    - 03_ta.qmd
+    - 04_assignments.qmd
+    - 05_advice.qmd
+    - 06_communication.qmd
+    - 07_other_policies.qmd
+
+format:
+  html:
+    theme: zephyr
+    code-overflow: wrap
+  pdf:
+    documentclass: scrreprt

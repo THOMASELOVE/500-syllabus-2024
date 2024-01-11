@@ -1,0 +1,18 @@
+# Teaching Assistant
+
+Leila Hojat will serve as a teaching assistant for this course, for which I am extremely grateful. Leila has taken the course in the past, and will be happy to help you with questions you have about R, about propensity scores, and about other course materials when I cannot.
+
+## About Leila
+
+Leila Hojat is a former PQHS 500 student who completed the course in Spring 2022 as part of the Masters in Biostatistics Program. She is an Assistant Professor in the Department of Medicine/ Division of Infectious Diseases at CWRU and a physician at University Hospitals. Her work focuses on antimicrobial stewardship in the hospital setting, and some of her research interests include antimicrobial resistance, rapid diagnostics, and health equity. In addition to R, Leila has experience working with the VA and University Hospitals’ electronic data warehouses and SQL for data extraction, and she has modest familiarity with natural language processing tools such as EMERSE and other medical databases including Premier, TriNetX, and CMS. She is looking forward to working with this class while refreshing her propensity score analysis skills. Feel free to reach out to her to discuss class topics as well as any of her personal interests such as cats, wellness, and creative sustainability approaches. 
+
+## TA Office Hours
+
+Leila’s Office Hours for 500 in Spring 2024 will be held **via Zoom** from **5 to 6 PM on most Mondays and Wednesdays**, beginning Monday 2024-01-22 and continuing through Wednesday 2024-05-01.
+
+TA office hours are canceled on 2024-03-11 and 2024-03-13 (Spring Break) as well as 2024-04-01 and 2024-04-03, 2024-04-08 (due to the eclipse) and 2024-04-17.
+
+Zoom meeting details for TA office hours are posted as an announcement on [Canvas](https://canvas.case.edu/) and also to our Shared Google Drive.
+
+
+
